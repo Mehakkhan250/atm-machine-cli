@@ -1,0 +1,22 @@
+{
+  "name": "@mehakkhan250/atm_machine",
+  "version": "1.0.0",
+  "description": "This project is based on ATM_machine transaction",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MEHAK KHAN",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
